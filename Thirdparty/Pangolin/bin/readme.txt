@@ -1,0 +1,1 @@
+If you don't feel ike building pangolin just make the directory orbslam-windows\Thirdparty\pangolin\build\src\Release then stick pangolin.lib there

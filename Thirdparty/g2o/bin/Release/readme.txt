@@ -1,0 +1,1 @@
+If you don't feel like building g2o just make the directory orbslam-windows\Thirdparty\g2o\build\Release then stick g2o.lib there

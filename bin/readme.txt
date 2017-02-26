@@ -1,0 +1,1 @@
+If you can't get ORB_SLAM2 to compile here is a compiled lib made by following the instructions on the GitHub page
